@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  EasyInvoice
+
+  Created by Paz Lavi  on 17/07/2021.
+  
+*/
+"signOut" = "התנתק";
+"appName" = "חשבונית קלה";
+"welcome" = "ברוך הבא";
+"signUpTitle" = "עמוד הרשמה";
+"fillDetails" = "אנא מלא את הפרטים הבאים:";
+"businessName" = "שם העסק";
+"businessNumber" = "מספר העסק (ח.פ/עוסק פטור)";
+"businessPhone" = "טלפון";
+"businessType" = "סוג העסק (בע״מ/מורשה/פטור)";
+"businessAddress" = "כתובת העסק";
+"signUp" = "הרשמה";
+"lastInvoceNumber" = "מספר חשבונית/קבלה אחרונה";
+"errorTitle" = "שגיאה";
+"close" = "סגור";
+"missingBusinessName" = "יש להזין את שם העסק";
+"missingBusinessNumber" = "יש להזין את מספר העסק";
+"missingBusinessPhone" = "יש להזין מספר טלפון";
+"missingBusinessType" =  "יש להזין את סוג העסק";
+"missingBusinessAddress" = "יש להזין את כתובת העסק";
+"missingLastInvoceNumber" = "יש להזין את המספר החשבונית האחרונה. במידה ואינה קיימת יש להזין 0.";
+"userIdNotFound" = "מספר משתמש לא נמצא. יש להתחבר תחילה";
+"settings" = "הגדרות";
+"businessDetails" = "פרטי העסק";
+"Tax" = "מע״מ";
+"invoiceNumber" = "מספר חשבונית";
+"failedToLoadBusiness" = "נכשל בקריאת העסק מהשרת";
+"savingBusiness" = "שומר את פרטי העסק\n אנא המתן...";
+"month" = "חודש";
+"amount" = "סכום";
+"reports" = "דוחות";
+"businessLogo"= "לוגו";
+"selectLogo"= "בחר לוגו";
+"saveChanges"= "שמור";
+"businessDetails"= "פרטי העסק";
+"settings"= "הגדרות";
+"incoive"= "חשבונית";
+"tax"= "מס";
+"account"= "חשבון";
+"region"= "מדינה";
+"subscription"= "מנוי";
+"logout"= "התנתק";
+"invoiceTitle"= "כותרת המסמך";
+"documentType"= "סוג מסך";
+"taxes"= "מיסים";
+"shouldIncludeTax"= "מסמך כולל מס";
+"taxRate"= "גובה המס";
+"taxLabel"= "שם המס";
+"taxLabelEx"= "שם המס (לדוגמה מע״מ)";
+"inclusive"= "כלול";
+"turnOnInclusive"= "הפעל אם המחירים כבר כוללים מס";
+"invoiceSettings" = "הגדרות חשבונית";
+"newInvoice" = "חשבונית חדשה";
+"invoices" = "חשבונית";

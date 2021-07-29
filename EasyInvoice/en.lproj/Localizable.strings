@@ -1,0 +1,60 @@
+/*
+  Localizable.strings
+  EasyInvoice
+
+  Created by Paz Lavi  on 17/07/2021.
+  
+*/
+"signOut" = "Sign Out";
+"appName" = "Easy Invoice";
+"welcome" = "Welcome";
+"signUpTitle" = "Sign Up Page";
+"fillDetails" = "Please dill the below details:";
+"businessName" = "Business Name";
+"businessNumber" = "Business Number";
+"businessPhone" = "Phone Number";
+"businessType" = "Business Type (e.g LTD)";
+"businessAddress" = "Business Address";
+"signUp" = "Sign up";
+"lastInvoceNumber" = "Last Invoce Number";
+"errorTitle" = "Error";
+"close" = "Close";
+"missingBusinessName" = "Plese insert the business name ";
+"missingBusinessNumber" = "Plese insert the business number";
+"missingBusinessPhone" = "Plese insert the business phone";
+"missingBusinessType" =  "Plese insert the business type";
+"missingBusinessAddress" = "Plese insert the business address";
+"missingLastInvoceNumber" = "Plese insert the lasr invoice number. Inser 0 if not exsits";
+"userIdNotFound" = "User ID not found. Please sign in first";
+"settings" = "Settings";
+"businessDetails" = "Business Details";
+"tax" = "Tax";
+"invoiceNumber" = "Invoice Number";
+"failedToLoadBusiness" = "Failed to load business from server";
+"savingBusiness" = "Saving Business\n Please wait...";
+"month" = "Month";
+"amount" = "Amount";
+"reports" = "Reports";
+"businessLogo"= "Logo";
+"selectLogo"= "Select Logo";
+"saveChanges"= "Save";
+"businessDetails"= "Business Details";
+"settings"= "Settings";
+"incoive"= "Incoive";
+"tax"= "Tax";
+"account"= "Account";
+"region"= "Region";
+"subscription"= "Subscription";
+"logout"= "Logout";
+"invoiceTitle"= "Invoice Title";
+"documentType"= "Document Type";
+"taxes"= "Taxes";
+"shouldIncludeTax"= "Document Should Include Tax";
+"taxRate"= "Tax Rate";
+"taxLabel"= "Tax Lable";
+"taxLabelEx"= "Tax Lable (e.g VAT, TAX)";
+"inclusive"= "Inclusive";
+"turnOnInclusive"= "Turn on if prices already include Tax";
+"invoiceSettings" = "Invoice Settings";
+"newInvoice" = "New Invoice";
+"invoices" = "Invoices";

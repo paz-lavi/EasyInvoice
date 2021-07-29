@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>746429010280-33kqdn8jpku5phkheoi3sa6h10vcnu9c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.746429010280-33kqdn8jpku5phkheoi3sa6h10vcnu9c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlbq0J-JyzpHk5aLYK3XLhmJipNE7YBAg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>746429010280</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paz.Invoice</string>
+	<key>PROJECT_ID</key>
+	<string>easy-invoice-1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easy-invoice-1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:746429010280:ios:af423a91be629dfc4a46dd</string>
+</dict>
+</plist>
